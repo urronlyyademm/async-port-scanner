@@ -23,7 +23,7 @@ A high-performance, asynchronous TCP port scanner and service banner grabber eng
 
 1. **Clone the repository:**
    ```bash
-      git clone [https://github.com/urronlyyademm/async-port-scanner.git](https://github.com/urronlyyademm/async-port-scanner.git)
+      git clone https://github.com/urronlyyademm/async-port-scanner.git
       cd async-port-scanner
    ```
 
