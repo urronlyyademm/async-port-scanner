@@ -26,7 +26,7 @@ A high-performance, asynchronous TCP port scanner and service banner grabber eng
       git clone [https://github.com/urronlyyademm/async-port-scanner.git](https://github.com/urronlyyademm/async-port-scanner.git)
       cd async-port-scanner
 
-```
+
 
 2. **Ensure Python 3.10+ is installed:**
 ```bash
@@ -84,6 +84,3 @@ This tool is created for educational purposes, authorized security auditing, and
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
-```
-
-```
